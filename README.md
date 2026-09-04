@@ -71,6 +71,7 @@ flowchart TD
     SupAgent -->|6. Strukturierte Antwort| UI
     InvAgent -->|6. Strukturierte Antwort| UI
 
+
 ## 🤖 Die Agenten
 
 1. **Research Agent:** Durchsucht das Live-Web nach Trends, Wettbewerbern und Preisen für Barfußschuhe (Fokus 2026).
