@@ -71,6 +71,8 @@ flowchart TD
     SupAgent -->|6. Strukturierte Antwort| UI
     InvAgent -->|6. Strukturierte Antwort| UI
 
+```
+
 
 ## 🤖 Die Agenten
 
