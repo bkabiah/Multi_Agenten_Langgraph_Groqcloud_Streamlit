@@ -1,6 +1,8 @@
-# Barfußschuh AI Agents (E-Commerce 2026)
+# Barfußschuh AI Agents (E-Commerce)
 
-Ein produktionsreifes Multi-Agenten-System für den E-Commerce, entwickelt für den deutschen Markt. Dieses Projekt demonstriert die Orchestrierung spezialisierter KI-Agenten zur Automatisierung von Research, Sales, Support und Supply-Chain-Management.
+Ein produktionsreifes Multi-Agenten-System für E-Commerce-Markt, das zeigt, wie moderne KI-Architekturen jenseits einfacher Chatbots aussehen. Das Projekt implementiert vier spezialisierte KI-Agenten (Research, Recommendation, Support, Inventory), die über einen zentralen LangGraph-Orchestrator intelligent geroutet werden. Es wurde bewusst auf einem Linux VPS (Hostinger) entwickelt, um reale Deployment-Herausforderungen wie API-Deprecations, DNS-Probleme und JSON-Validierung bei LLMs zu meistern. Der Fokus liegt auf **Resilienz** (4-stufige Fallback-Pyramide), **Datenqualität** (Pydantic Custom Validators) und **Observability** (LangSmith Tracing) – genau die Eigenschaften, die IT-Teams bei AI Engineers suchen.
+
+---
 
 ## Architektur & Tech Stack
 
